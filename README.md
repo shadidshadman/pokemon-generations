@@ -1,6 +1,6 @@
 # pokemon-generations
 
-[Website Link]((https://shadidshadman.github.io/pokemon-generations/)
+[Website Link](https://shadidshadman.github.io/pokemon-generations/)
 
 # Why MIT as a licence?
 
